@@ -1,0 +1,11 @@
+D:\учеба\Программирование\Clients\Clients\bin\Debug\Clients.exe.config
+D:\учеба\Программирование\Clients\Clients\bin\Debug\Clients.exe
+D:\учеба\Программирование\Clients\Clients\bin\Debug\Clients.pdb
+D:\учеба\Программирование\Clients\Clients\obj\Debug\Clients.csproj.AssemblyReference.cache
+D:\учеба\Программирование\Clients\Clients\obj\Debug\Clients.csproj.SuggestedBindingRedirects.cache
+D:\учеба\Программирование\Clients\Clients\obj\Debug\Clients.Form1.resources
+D:\учеба\Программирование\Clients\Clients\obj\Debug\Clients.Properties.Resources.resources
+D:\учеба\Программирование\Clients\Clients\obj\Debug\Clients.csproj.GenerateResource.cache
+D:\учеба\Программирование\Clients\Clients\obj\Debug\Clients.csproj.CoreCompileInputs.cache
+D:\учеба\Программирование\Clients\Clients\obj\Debug\Clients.exe
+D:\учеба\Программирование\Clients\Clients\obj\Debug\Clients.pdb
